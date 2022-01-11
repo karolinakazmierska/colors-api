@@ -1,0 +1,23 @@
+{
+  "name": "colors-api",
+  "version": "1.0.0",
+  "description": "Colors API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karolinakazmierska/colors-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karolinakazmierska/colors-api/issues"
+  },
+  "homepage": "https://github.com/karolinakazmierska/colors-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
