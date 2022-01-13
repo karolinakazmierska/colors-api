@@ -2,13 +2,28 @@
     "colors": [
         {
             "id": 0,
-            "name": "black",
-            "hex": "#000"
+            "name": "Independence",
+            "hex": "#3A405A"
         },
         {
             "id": 1,
-            "name": "white",
-            "hex": "#fff"
-        }
+            "name": "Unbleached silk",
+            "hex": "#F9DEC9"
+        },
+        {
+            "id": 2,
+            "name": "Wild blue",
+            "hex": "#99B2DD"
+        },
+        {
+            "id": 3,
+            "name": "Melon",
+            "hex": "#E9AFA3"
+        },
+        {
+            "id": 4,
+            "name": "Umber",
+            "hex": "#685044"
+        },
     ]
 }
